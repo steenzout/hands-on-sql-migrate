@@ -16,3 +16,9 @@ demo3:
     dir: sql-migrate/demo3
     table: migrations
 
+demo4:
+    dialect: sqlite3
+    datasource: demo4.db
+    dir: sql-migrate/demo4
+    table: migrations
+
