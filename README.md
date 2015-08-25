@@ -4,5 +4,3 @@
 
 Code for part of the Hands-on [sql-migrate](https://github.com/rubenv/sql-migrate) presentation given on the 26th August 2015 @ Rakuten Marketing Display.
 
-Licensed under [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
-
