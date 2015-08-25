@@ -4,3 +4,24 @@
 
 Code for part of the Hands-on [sql-migrate](https://github.com/rubenv/sql-migrate) presentation given on the 26th August 2015 @ Rakuten Marketing Display.
 
+
+# Requirements
+
+- Go
+
+
+# Presentation
+
+Setup the environment:
+
+```bash
+$ bash setup.sh
+```
+
+# Demo
+
+1. migration using command-line tool
+2. migration from memory
+3. migration from a set of files
+4. migration using bindata
+
