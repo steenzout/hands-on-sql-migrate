@@ -1,0 +1,18 @@
+demo1:
+    dialect: sqlite3
+    datasource: demo1.db
+    dir: sql-migrate/demo1
+    table: migrations
+
+demo2:
+    dialect: sqlite3
+    datasource: demo2.db
+    dir: sql-migrate/demo2
+    table: migrations
+
+demo3:
+    dialect: sqlite3
+    datasource: demo3.db
+    dir: sql-migrate/demo3
+    table: migrations
+
