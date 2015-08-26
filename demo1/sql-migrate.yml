@@ -1,0 +1,11 @@
+local:
+    dialect: sqlite3
+    datasource: demo1.db
+    dir: demo1/sqlite3
+    table: migrations
+
+production:
+    dialect: postgres
+    datasource: dbname=demo1 sslmode=disable
+    dir: migrations/postgres
+    table: migrations
