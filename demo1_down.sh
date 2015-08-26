@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sql-migrate down -config=demo1/sql-migrate.yml -env="local"
+sql-migrate down -config=sql-migrate/demo1/config.yml -env="local"
 
